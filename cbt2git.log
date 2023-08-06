@@ -1,0 +1,14 @@
+2023-08-06 07:49:54.496934 - Initialized conversion of CBT829
+2023-08-06 07:49:54.566795 - Received CBT.V505.FILE829.PDS from FILE829.XMI 
+2023-08-06 07:49:54.569080 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:49:54.569093 - Found $$NOTE01.bin containing application/octet-stream, moved to PDS/$$NOTE01
+2023-08-06 07:49:54.571080 - Found $$README.txt (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/$$README
+2023-08-06 07:49:54.572027 - Found $ENTER3.txt (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/$ENTER3
+2023-08-06 07:49:54.572853 - Found $RTRN.txt (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/$RTRN
+2023-08-06 07:49:54.573863 - Found @FILE829.txt (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/@FILE829
+2023-08-06 07:49:54.574860 - Found SAMPJCL1.jcl (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/SAMPJCL1
+2023-08-06 07:49:54.575749 - Found SAMPJCL2.jcl (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/SAMPJCL2
+2023-08-06 07:49:54.576571 - Found SAMPJCL3.jcl (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/SAMPJCL3
+2023-08-06 07:49:54.577390 - Found SETLABEH.txt (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/SETLABEH
+2023-08-06 07:49:54.578487 - Found TIDYASM.txt (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/TIDYASM
+2023-08-06 07:49:54.579467 - Found TIDYASM$.jcl (text/plain) in CBT.V505.FILE829.PDS, moved to PDS/TIDYASM$
